@@ -1,0 +1,8 @@
+{
+  "name":"ruby-rails-sample",
+  "scripts":{},
+  "env":{},
+  "addons":[
+    "heroku-postgresql"
+  ]
+}
